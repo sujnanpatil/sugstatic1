@@ -1,0 +1,1 @@
+# sugstatic1
